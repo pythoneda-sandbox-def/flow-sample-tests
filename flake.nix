@@ -40,7 +40,7 @@
         "pythoneda-shared-pythonlang-banner";
       inputs.pythoneda-shared-pythonlang-domain.follows =
         "pythoneda-shared-pythonlang-domain";
-      url = "github:pythoneda-sandbox-def/flow-sample/0.0.29";
+      url = "github:pythoneda-sandbox-def/flow-sample/0.0.30";
     };
     rydnr-testcontainers-python = {
       inputs.flake-utils.follows = "flake-utils";
