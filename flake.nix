@@ -31,7 +31,7 @@
       inputs.nixos.follows = "nixos";
       inputs.pythoneda-shared-pythonlang-banner.follows =
         "pythoneda-shared-pythonlang-banner";
-      url = "github:pythoneda-shared-pythonlang-def/domain/0.0.64";
+      url = "github:pythoneda-shared-pythonlang-def/domain/0.0.70";
     };
     pythoneda-sandbox-flow-sample = {
       inputs.flake-utils.follows = "flake-utils";
