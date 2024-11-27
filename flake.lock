@@ -45,16 +45,17 @@
       },
       "locked": {
         "dir": "esdbclient",
-        "lastModified": 1705227856,
-        "narHash": "sha256-mu3F53Bj7HAz8MOMCgtIgQ7ko8A0LG0MArCNqWbPHaM=",
+        "lastModified": 1731731825,
+        "narHash": "sha256-kOddDyUkMJEJm14yCbfW+DYceAzo/QRD8KDf92IcJJo=",
         "owner": "rydnr",
         "repo": "nix-flakes",
-        "rev": "783f471d5fd80d558483b16a48499ce2ecb024ad",
+        "rev": "a83da54f986cb6a60dc9b71309f186e97a604cff",
         "type": "github"
       },
       "original": {
         "dir": "esdbclient",
         "owner": "rydnr",
+        "ref": "esdbclient-1.1.3",
         "repo": "nix-flakes",
         "type": "github"
       }
@@ -656,16 +657,16 @@
         ]
       },
       "locked": {
-        "lastModified": 1705249913,
-        "narHash": "sha256-KAgoMYeY3Ax3102ZxcKhR4KUaRF+1+ad388xSq68VJU=",
+        "lastModified": 1732741732,
+        "narHash": "sha256-AbflJW7Ooza+6/ADBsZ8/1SCBzEx8j3RbHSJfyqGfsQ=",
         "owner": "rydnr",
         "repo": "testcontainers-python",
-        "rev": "1d3383fbc1dafdd5d8fc6bf4721f675a86612958",
+        "rev": "797c4c2a28c4600f57f513415d5142141587605c",
         "type": "github"
       },
       "original": {
         "owner": "rydnr",
-        "ref": "0.0.0",
+        "ref": "0.0.1",
         "repo": "testcontainers-python",
         "type": "github"
       }

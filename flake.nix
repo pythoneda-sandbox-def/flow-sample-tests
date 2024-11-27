@@ -45,7 +45,7 @@
     rydnr-testcontainers-python = {
       inputs.flake-utils.follows = "flake-utils";
       inputs.nixos.follows = "nixos";
-      url = "github:rydnr/testcontainers-python/0.0.0";
+      url = "github:rydnr/testcontainers-python/0.0.1";
     };
   };
   outputs = inputs:
